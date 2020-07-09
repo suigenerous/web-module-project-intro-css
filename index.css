@@ -49,6 +49,7 @@ h1 {
     padding-left: 10%;  
     /* border: 1px solid blue; */
     padding-bottom: 5%;
+    vertical-align: middle;
 }
 nav h2{
     display:inline-block;
@@ -64,6 +65,7 @@ nav h2{
 
 header img {
     border-radius:50%;
+    vertical-align: middle;
 }
 
 .titleContainer {
@@ -91,6 +93,7 @@ h1{
 .comeExplore{
     text-align:center;
     font-size: 3rem;
+    vertical-align: middle;
 }
 
 .imageContainer{
